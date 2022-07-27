@@ -1,8 +1,10 @@
 # Mixed-Waste-Sorting-System
 
-Done using Google Drive as well as merging multiple datasets together.
+Done with Google Colab.
 
-List of such datasets include:
+Use an Android app called IP Webcam as the camera for image classification.
+
+Datasets used to train the model are found here:
 
 https://www.kaggle.com/datasets/moezabid/bottles-and-cans?resource=download
 
